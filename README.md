@@ -185,6 +185,7 @@ All investment costs, productive demand, and incremental cash contribution value
 ---
 
 ## 6. The Automation Value Trap
+![The Automation Value Trap — NPV Decision Analysis](automation_value_trap_linkedin.png)
 
 ### Interactive Decision Logic, Presented as a Two-Panel Visualization
 
